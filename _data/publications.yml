@@ -4,7 +4,7 @@ main:
     authors: <strong>Hauzi Cao</strong>, Jiahao Shen, Zhengzhen Li, Qinquan Ren, Shiyu Zhao* (*Corresponding authors)
     conference_short: RAL
     conference: IEEE Robotics and Automation Letters <strong>(RAL)</strong>, 2025.
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    #pdf: https://arxiv.org/pdf/2306.00988.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/pig_in_hole.png
@@ -38,8 +38,8 @@ main:
     conference: IEEE Transactions on Automation Science and Engineering <strong>(T-ASE)</strong>, 2024.
     pdf: https://arxiv.org/abs/2306.04970
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://ieeexplore.ieee.org/document/10486851
+    page: https://ieeexplore.ieee.org/document/10486851
+    # bibtex: https://ieeexplore.ieee.org/document/10486851
     # notes: Oral Presentation
     image: ./assets/img/aerial_pick_place.png
 
