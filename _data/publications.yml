@@ -27,8 +27,8 @@ main:
     conference: Nonlinear Dynamics <strong>(ND)</strong>, 2025.
     pdf: https://arxiv.org/abs/2411.10966
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://link.springer.com/article/10.1007/s11071-024-10584-0
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # page: https://link.springer.com/article/10.1007/s11071-024-10584-0
+    bibtex: https://link.springer.com/article/10.1007/s11071-024-10584-0
     # notes: Oral Presentation
     image: ./assets/img/head_stable.png
 
@@ -38,8 +38,8 @@ main:
     conference: IEEE Transactions on Automation Science and Engineering <strong>(T-ASE)</strong>, 2024.
     pdf: https://arxiv.org/abs/2306.04970
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://ieeexplore.ieee.org/document/10486851
-    # bibtex: https://ieeexplore.ieee.org/document/10486851
+    # page: https://ieeexplore.ieee.org/document/10486851
+    bibtex: https://ieeexplore.ieee.org/document/10486851
     # notes: Oral Presentation
     image: ./assets/img/aerial_pick_place.png
 
@@ -49,7 +49,7 @@ main:
     conference: IEEE Transactions on Automation Science and Engineering <strong>(T-ASE)</strong>, 2023.
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://ieeexplore.ieee.org/document/10083097
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # page: https://ieeexplore.ieee.org/document/10083097
+    bibtex: https://ieeexplore.ieee.org/document/10083097
     # notes: Oral Presentation
     image: ./assets/img/ESO-control.png
