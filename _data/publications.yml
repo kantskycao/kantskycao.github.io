@@ -1,22 +1,55 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+  - title: Prespecified-Performance Kinematic Tracking Control for Aerial Manipulation
+    authors: <strong>Hauzi Cao</strong>, Jiahao Shen, Zhengzhen Li, Qinquan Ren, Shiyu Zhao* (*Corresponding authors)
+    conference_short: RAL
+    conference: IEEE Robotics and Automation Letters <strong>(RAL)</strong>, 2025.
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/pig_in_hole.png
     notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    
+  - title: "Predictive Kinematic Coordinate Control for Aerial Manipulators based on Modified Kinematics Learning"
+    authors: Zhengzhen Li, Jiahao Shen, Mengyu Ji, <strong>Huazi Cao*</strong>, Shiyu Zhao
+    conference_short: ICRA
+    conference: 2025 IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2025.
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/learn_MPC.png
+
+  - title: "Avian-Inspired High-Precision Tracking Control for Aerial Manipulators"
+    authors: Mengyu Ji, Jiahao Shen, <strong>Huazi Cao*</strong>, Shiyu Zhao
+    conference_short: ND
+    conference: Nonlinear Dynamics <strong>(ND)</strong>, 2025.
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/head_stable.png
+
+  - title: "Motion Planning for Aerial Pick-and-Place With Geometric Feasibility Constraints"
+    authors: <strong>Huazi Cao</strong>, Jiahao Shen, Cunjia Liu, Bo Zhu, Shiyu Zhao*,
+    conference_short: T-ASE
+    conference: IEEE Transactions on Automation Science and Engineering <strong>(T-ASE)</strong>, 2025.
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/aerial_pick_place.png
+
+  - title: "ESO-based Robust and High-Precision Tracking Control for Aerial Manipulation"
+    authors: <strong>Huazi Cao</strong>, Yongqi Li, Cunjia Liu, Shiyu Zhao*
+    conference_short: T-ASE
+    conference: IEEE Transactions on Automation Science and Engineering <strong>(T-ASE)</strong>, 2025.
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/ESO-control.png
