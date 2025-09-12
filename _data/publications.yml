@@ -1,6 +1,6 @@
 main:
 
-  - title: Prespecified-Performance Kinematic Tracking Control for Aerial Manipulation
+  - title: "Prespecified-Performance Kinematic Tracking Control for Aerial Manipulation"
     authors: <strong>Hauzi Cao</strong>, Jiahao Shen, Zhengzhen Li, Qinquan Ren, Shiyu Zhao* (*Corresponding authors)
     conference_short: RAL
     conference: IEEE Robotics and Automation Letters <strong>(RAL)</strong>, 2025.
@@ -35,7 +35,7 @@ main:
   - title: "Motion Planning for Aerial Pick-and-Place With Geometric Feasibility Constraints"
     authors: <strong>Huazi Cao</strong>, Jiahao Shen, Cunjia Liu, Bo Zhu, Shiyu Zhao*,
     conference_short: T-ASE
-    conference: IEEE Transactions on Automation Science and Engineering <strong>(T-ASE)</strong>, 2025.
+    conference: IEEE Transactions on Automation Science and Engineering <strong>(T-ASE)</strong>, 2024.
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -46,7 +46,7 @@ main:
   - title: "ESO-based Robust and High-Precision Tracking Control for Aerial Manipulation"
     authors: <strong>Huazi Cao</strong>, Yongqi Li, Cunjia Liu, Shiyu Zhao*
     conference_short: T-ASE
-    conference: IEEE Transactions on Automation Science and Engineering <strong>(T-ASE)</strong>, 2025.
+    conference: IEEE Transactions on Automation Science and Engineering <strong>(T-ASE)</strong>, 2023.
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
