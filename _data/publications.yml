@@ -1,14 +1,24 @@
 main:
 
+  - title: "Proximal Cooperative Aerial Manipulation with Vertically Stacked Drones"
+    authors: <strong>Hauzi Cao</strong>, Jiahao Shen, Yin Zhang, Zheng Fu, Cunjia Liu, Sihao Sun & Shiyu Zhao * (*Corresponding authors)
+    conference_short: Nature
+    conference: <strong>(Nature)</strong>, 2025.
+    #pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/WindyLab/FlyingToolbox.git
+    bibtex: https://www.nature.com/articles/s41586-025-09575-x
+    image: ./assets/img/cover_nature.png
+    #notes: Early Accept
+    
   - title: "Prespecified-Performance Kinematic Tracking Control for Aerial Manipulation"
     authors: <strong>Hauzi Cao</strong>, Jiahao Shen, Zhengzhen Li, Qinquan Ren, Shiyu Zhao* (*Corresponding authors)
     conference_short: RAL
     conference: IEEE Robotics and Automation Letters <strong>(RAL)</strong>, 2025.
-    #pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://arxiv.org/abs/2509.10065
     # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: https://ieeexplore.ieee.org/document/11159161
     image: ./assets/img/pig_in_hole.png
-    notes: Early Accept
+    #notes: Early Accept
     
   - title: "Predictive Kinematic Coordinate Control for Aerial Manipulators based on Modified Kinematics Learning"
     authors: Zhengzhen Li, Jiahao Shen, Mengyu Ji, <strong>Huazi Cao*</strong>, Shiyu Zhao
