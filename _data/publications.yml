@@ -3,7 +3,7 @@ main:
   - title: "Proximal Cooperative Aerial Manipulation with Vertically Stacked Drones"
     authors: <strong>Hauzi Cao</strong>, Jiahao Shen, Yin Zhang, Zheng Fu, Cunjia Liu, Sihao Sun & Shiyu Zhao * (*Corresponding authors)
     conference_short: Nature
-    conference: <strong>(Nature)</strong>, 2025.
+    conference: <strong>Nature</strong>, 2025.
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/WindyLab/FlyingToolbox.git
     bibtex: https://www.nature.com/articles/s41586-025-09575-x
