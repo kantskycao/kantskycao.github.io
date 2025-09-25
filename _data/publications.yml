@@ -11,7 +11,7 @@ main:
     #notes: Early Accept
     
   - title: "Prespecified-Performance Kinematic Tracking Control for Aerial Manipulation"
-    authors: <strong>Hauzi Cao</strong>, Jiahao Shen, Zhengzhen Li, Qinquan Ren, Shiyu Zhao* (*Corresponding authors)
+    authors: <strong>Hauzi Cao</strong>, Jiahao Shen, Zhengzhen Li, Qinquan Ren, Shiyu Zhao*
     conference_short: RAL
     conference: IEEE Robotics and Automation Letters <strong>(RAL)</strong>, 2025.
     pdf: https://arxiv.org/abs/2509.10065
