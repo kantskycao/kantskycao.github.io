@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a research associate professor at Westlake Institute for Optoelectronics, specializing in the control and planning of aerial robotic systems. I received my Bachelor’s degree in aerospace engineering from Harbin Engineering University in 2013 and my Ph.D. in the same field from Beihang University in 2018.
+I am currently a associate professor at Zhejiang University, specializing in the control and planning of aerial robotic systems. I received my Bachelor’s degree in aerospace engineering from Harbin Engineering University in 2013 and my Ph.D. in the same field from Beihang University in 2018.
 From 2018 to 2019, I served as a Research Scientist at the Southwest China Research Institute of Electronic Equipment. I then worked as a Research Fellow at the School of Engineering, Westlake University from 2019 to 2024. I am passionate about developing intelligent and practical robotic systems, and I am always open to collaborations and research opportunities in robotics, autonomous systems, and related fields.
 
 ## Research Interests
