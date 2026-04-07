@@ -15,7 +15,7 @@ From 2018 to 2019, I served as a Research Scientist at the Southwest China Resea
 ## News
 
 - **[Mar. 2026]** Our paper about robust control of aerial manipulators is accepted to TIE.
-- **[Feb. 2026]** Our paper about prespecified-performance kinematic tracking is accepted to RAL.
+- **[Feb. 2026]** Our paper about 2D/3D shape assembly of robot swarms is accepted to RAL.
 - **[Sep. 2025]** Our paper about FlyingToolbox is accepted to Nature.
 - **[Aug. 2025]** Our paper about prespecified-performance kinematic tracking is accepted to RAL.
 - **[Jan. 2025]** Our paper about kinematics control of aerial manipulators is accepted to ICRA 2025.
