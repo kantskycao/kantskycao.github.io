@@ -9,6 +9,15 @@ main:
     bibtex: https://www.nature.com/articles/s41586-025-09575-x
     image: ./assets/img/cover_nature.png
     #notes: Early Accept
+
+  - title: "PreGME: Prescribed Performance Control of Aerial Manipulators Based on Variable-Gain ESO"
+    authors: Mengyu Ji, Shiliang Guo, Zhengzhen Li, Jiahao Shen, <strong>Huazi Cao*</strong>, Shiyu Zhao
+    conference_short: TIE
+    conference: IEEE Transactions on Industrial Electronics <strong>(TIE)</strong>, 2026.
+    #pdf: https://arxiv.org/abs/2509.10065
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://ieeexplore.ieee.org/document/11510697
+    image: ./assets/img/fig_main_mixology.png
     
   - title: "Prespecified-Performance Kinematic Tracking Control for Aerial Manipulation"
     authors: <strong>Huazi Cao</strong>, Jiahao Shen, Zhengzhen Li, Qinquan Ren, Shiyu Zhao*
